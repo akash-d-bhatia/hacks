@@ -65,9 +65,8 @@ def create_ical_from_excel(excel_file_path):
 
         counter += 1
 
-        if counter < 2 :
-            # Adding event to calendar
-            cal.add_component(ical_event)
+        # Adding event to calendar
+        cal.add_component(ical_event)
 
     # Return the calendar object
     return cal

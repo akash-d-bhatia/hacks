@@ -5,9 +5,161 @@ BEGIN:VEVENT
 SUMMARY:International CES (Consumer Electronics Emerging Tech)
 DTSTART;TZID=America/Los_Angeles:20240109T000000
 DTEND;TZID=America/Los_Angeles:20240113T000000
-DTSTAMP:20231220T193709Z
+DTSTAMP:20231220T202452Z
 UID:unique-event-id-0
+DESCRIPTION:International CES (Consumer Electronics Emerging Tech)\n\nhttp
+ s://www.ces.tech/
 LOCATION:Las Vegas NV
-URL:http://nytimes.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morgan Stanley TMT Conference
+DTSTART;TZID=America/Los_Angeles:20240304T000000
+DTEND;TZID=America/Los_Angeles:20240308T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-1
+DESCRIPTION:Morgan Stanley TMT Conference\n\nhttps://www.morganstanley.com
+ /
+LOCATION:San Francisco CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adobe Summit (Experience Cloud Work Management)
+DTSTART;TZID=America/Los_Angeles:20240326T000000
+DTEND;TZID=America/Los_Angeles:20240329T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-2
+DESCRIPTION:Adobe Summit (Experience Cloud Work Management)\n\nhttps://sum
+ mit.adobe.com/na/
+LOCATION:Las Vegas NV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Google Cloud Next (GCP IT Ops Cloud Strategies)
+DTSTART;TZID=America/Los_Angeles:20240409T000000
+DTEND;TZID=America/Los_Angeles:20240412T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-3
+DESCRIPTION:Google Cloud Next (GCP IT Ops Cloud Strategies)\n\nhttps://clo
+ ud.withgoogle.com/next
+LOCATION:Las Vegas NV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSA Conference (Cybersecurity)
+DTSTART;TZID=America/Los_Angeles:20240506T000000
+DTEND;TZID=America/Los_Angeles:20240510T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-4
+DESCRIPTION:RSA Conference (Cybersecurity)\n\nhttps://www.rsaconference.co
+ m/usa
+LOCATION:San Francisco CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ServiceNow Knowledge (ITSM ITOM RPA)
+DTSTART;TZID=America/Los_Angeles:20240507T000000
+DTEND;TZID=America/Los_Angeles:20240510T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-5
+DESCRIPTION:ServiceNow Knowledge (ITSM ITOM RPA)\n\nhttps://knowledge.serv
+ icenow.com/flow/servicenow/k24/event/page/home
+LOCATION:Las Vegas NV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:J.P. Morgan Global TMC Conference
+DTSTART;TZID=America/Los_Angeles:20240520T000000
+DTEND;TZID=America/Los_Angeles:20240523T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-6
+DESCRIPTION:J.P. Morgan Global TMC Conference\n\nhttps://www.jpmorgan.com/
+ about-us/events-conferences/technology-media-communications-conference
+LOCATION:Boston MA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jefferies Software Conference
+DTSTART;TZID=America/Los_Angeles:20240529T000000
+DTEND;TZID=America/Los_Angeles:20240531T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-7
+DESCRIPTION:Jefferies Software Conference\n\nhttps://www.jefferies.com/wp-
+ content/uploads/sites/4/2023/11/11_28_23_Jefferies_2023_2024_Conference_Su
+ mmit_Calendar.pdf
+LOCATION:Newport CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cowen Technology Media & Telecom Conference
+DTSTART;TZID=America/Los_Angeles:20240529T000000
+DTEND;TZID=America/Los_Angeles:20240531T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-8
+DESCRIPTION:Cowen Technology Media & Telecom Conference\n\nhttps://www.cow
+ en.com/conferences-and-events/52nd-annual-technology-media-telecom-confere
+ nce/
+LOCATION:New York NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snowflake Summit (Cloud Analytics Data Warehouses)
+DTSTART;TZID=America/Los_Angeles:20240603T000000
+DTEND;TZID=America/Los_Angeles:20240607T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-9
+DESCRIPTION:Snowflake Summit (Cloud Analytics Data Warehouses)\n\nhttps://
+ www.snowflake.com/summit/
+LOCATION:San Francisco CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Databricks Data + AI Summit (Data Lakehouse AI ML)
+DTSTART;TZID=America/Los_Angeles:20240610T000000
+DTEND;TZID=America/Los_Angeles:20240614T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-10
+DESCRIPTION:Databricks Data + AI Summit (Data Lakehouse AI ML\n\nhttps://w
+ ww.databricks.com/dataaisummit/
+LOCATION:San Francisco CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oracle CloudWorld (Database ERP HCM Oracle Cloud)
+DTSTART;TZID=America/Los_Angeles:20240909T000000
+DTEND;TZID=America/Los_Angeles:20240913T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-11
+DESCRIPTION:Oracle CloudWorld (Database ERP HCM Oracle Cloud)\n\nhttps://w
+ ww.oracle.com/cloudworld/
+LOCATION:Las Vegas NV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workday Rising (HCM ERP Employee Experience)
+DTSTART;TZID=America/Los_Angeles:20240916T000000
+DTEND;TZID=America/Los_Angeles:20240920T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-12
+DESCRIPTION:Workday Rising (HCM ERP Employee Experience)\n\nhttps://rising
+ .workday.com/us.html
+LOCATION:Las Vegas NV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salesforce Dreamforce (CRM Collaboration Tools)
+DTSTART;TZID=America/Los_Angeles:20240917T000000
+DTEND;TZID=America/Los_Angeles:20240920T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-13
+DESCRIPTION:Salesforce Dreamforce (CRM Collaboration Tools)\n\nhttps://www
+ .salesforce.com/dreamforce/
+LOCATION:San Francisco CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HubSpot INBOUND (CRM)
+DTSTART;TZID=America/Los_Angeles:20240918T000000
+DTEND;TZID=America/Los_Angeles:20240921T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-14
+DESCRIPTION:HubSpot INBOUND (CRM)\n\nhttps://www.inbound.com/
+LOCATION:Boston MA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HR Tech Conference (HCM)
+DTSTART;TZID=America/Los_Angeles:20240924T000000
+DTEND;TZID=America/Los_Angeles:20240928T000000
+DTSTAMP:20231220T202452Z
+UID:unique-event-id-15
+DESCRIPTION:HR Tech Conference (HCM)\n\nhttps://www.hrtechnologyconference
+ .com/register
+LOCATION:Las Vegas NV
 END:VEVENT
 END:VCALENDAR
