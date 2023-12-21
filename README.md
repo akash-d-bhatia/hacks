@@ -1,3 +1,5 @@
+![Nice image](https://consultingedge.files.wordpress.com/2023/12/kermis.png "Flemish Kermis")
+
 ### Quick set of scripts / hacks that maybe others find useful
 
 * First, there's a [script](ZoomCapture.lua) that uses Lua / [Hammerspoon](https://www.hammerspoon.org/) to automate taking **screenshots of your zoom session** with a shortcut
