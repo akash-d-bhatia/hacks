@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Akash Bhatia//Enterprise Tech Events//EN
+BEGIN:VEVENT
+SUMMARY:International CES (Consumer Electronics Emerging Tech)
+DTSTART;TZID=America/Los_Angeles:20240109T000000
+DTEND;TZID=America/Los_Angeles:20240113T000000
+DTSTAMP:20231220T193709Z
+UID:unique-event-id-0
+LOCATION:Las Vegas NV
+URL:http://nytimes.com
+END:VEVENT
+END:VCALENDAR
