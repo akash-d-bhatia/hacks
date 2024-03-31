@@ -1,3 +1,5 @@
+![haymaking](https://github.com/akash-d-bhatia/hacks/blob/4a6144786999c1e30083ee66df2389adbdd5475d/images/haymaking.jpeg)
+
 **Enterprise SW leader profiles** that I know about that are looking
 
 * ex-CTO/CTPO deep in infra
