@@ -4,7 +4,7 @@ Must install / use apps:
 
 * [Raycast](http://www.raycast.com): replacement for native app launcher. Much quicker and with an awesome set of plugins. I use it to launch apps (obviously), search for files, save frequently used snippets (e.g., for introductions), time in location X, date math (e.g., 7/4/2023 + 8 weeks) etc. (If you are more ambitious, you can also write your own plugins). 
 * [Espanso](https://espanso.org): Text expander. Essentially you give a short phrase (e.g., emsg and it expands to "Please let me know if you have any questions"). You probably think you don't need it, but it allows one to speed through responses. 
-* [Contexts](http://contexts.io): Awesome replacement to navigate between windows. I just started using just a little while ago and I'm hooked. I used to use Alt-TAB, but this is so much quicker / easier. $
+* [Contexts](http://contexts.co): Awesome replacement to navigate between windows. I just started using just a little while ago and I'm hooked. I used to use Alt-TAB, but this is so much quicker / easier. $
 * [Superhuman](https://superhuman.com/): My favorite email client period. It's full of keyboard shortcuts, snippets (email templates) that allow one to speed through email. Not great for calendar (yet). $
 * [Fman](https://fman.io/): File / directory navigator that works with keyboard / shortcuts. Dual panel. Maybe it's just me, but I don't like the native Mac finder app. This one allows you to navigate very quickly. 
 * [VimCal](https://www.vimcal.com/): Awesome keyboard friendly calendar app. Key feature is the ability to parse natural language (e.g., Coffee with x@y.com tomorrow at 2 pm PST). And it is fast. $
