@@ -8,15 +8,15 @@
 * COO
 * A few CEO candidates (some ex, some first timers)
 * CMO
-* Lots of people with sales strategy/sales ops; Public one: [Mark Wohlfarth](https://www.linkedin.com/in/mark-wohlfarth/)
+* Lots of people with sales strategy/sales ops; Public one: [Mark Wohlfarth](https://www.linkedin.com/in/mark-wohlfarth/) 🆕
 * Product managers
-* Ex-consultants (various levels); Public ones: [Mohd. Zain](https://www.linkedin.com/in/mohammedzain/), [Mark Koskei](https://www.linkedin.com/in/mark-koskei/)
+* Ex-consultants (various levels); Public ones: [Mohd. Zain](https://www.linkedin.com/in/mohammedzain/), [Mark Koskei](https://www.linkedin.com/in/mark-koskei/) 🆕
 * Ecosystem leader 🆕
 
 
-**Positions open** that I know about
+**Enterprise SW positions open** that I know about
 
-* CorpDev at two separate nid-maket data related companies. Both would report to the President (who is CEO-1) 
+* CorpDev at two separate mid-maket data related companies. Both would report to the President (who is CEO-1) 🆕
 
 
 If you have any needs that fit, please let me know. 🙏 (I’m not a recruiter – just trying to help make connections!).
