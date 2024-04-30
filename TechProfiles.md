@@ -10,7 +10,13 @@
 * CMO
 * Lots of people with sales strategy/sales ops
 * Product managers
-* Ex-consultants (various levels)
+* Ex-consultants (various levels); public ones: [Mohd. Zain - Project Lead](https://www.linkedin.com/in/mohammedzain/)
 * Ecosystem leader 🆕
+
+
+**Positions open** that I know about
+
+* CorpDev at two separate nid-maket data related companies. Both would report to the President (who is CEO-1) 
+
 
 If you have any needs that fit, please let me know. 🙏 (I’m not a recruiter – just trying to help make connections!).
