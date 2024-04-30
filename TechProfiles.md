@@ -8,9 +8,9 @@
 * COO
 * A few CEO candidates (some ex, some first timers)
 * CMO
-* Lots of people with sales strategy/sales ops
+* Lots of people with sales strategy/sales ops; Public one: [Mark Wohlfarth](https://www.linkedin.com/in/mark-wohlfarth/)
 * Product managers
-* Ex-consultants (various levels); public ones: [Mohd. Zain - Project Lead](https://www.linkedin.com/in/mohammedzain/)
+* Ex-consultants (various levels); Public ones: [Mohd. Zain](https://www.linkedin.com/in/mohammedzain/), [Mark Koskei](https://www.linkedin.com/in/mark-koskei/)
 * Ecosystem leader 🆕
 
 
