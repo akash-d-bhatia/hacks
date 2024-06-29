@@ -2,7 +2,6 @@
 
 **Enterprise SW leader profiles** that I know about that are looking
 
-* ex-CTO/CTPO deep in infra
 * Chief Transformation type guy
 * President/GTM (more background in sales) -- ideally looking for a first time CEO gig
 * COO
@@ -17,7 +16,7 @@
 **Enterprise SW positions open** that I know about
 
 * CorpDev at two separate mid-maket data related companies. Both would report to the President (who is CEO-1)
-* CCO (Chief Customer Officer) for a mid-market infrastructure SW company 🆕
-* SVP of cross company ops for a mid-market infrastructure SW company 🆕
+* CCO (Chief Customer Officer) for a mid-market infrastructure SW company
+* SVP of cross company ops for a mid-market infrastructure SW company
 
 If you have any needs that fit, please let me know. 🙏 (I’m not a recruiter – just trying to help make connections!).
