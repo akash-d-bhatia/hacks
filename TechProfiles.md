@@ -18,5 +18,6 @@
 * CorpDev at two separate mid-maket data related companies. Both would report to the President (who is CEO-1)
 * CCO (Chief Customer Officer) for a mid-market infrastructure SW company
 * SVP of cross company ops for a mid-market infrastructure SW company
+* Revenue Strategy & Operations Manager for Harness - link [here](https://www.harness.io/company/jobs/apply?gh_jid=4407329007?gh_jid%3D4407329007) 🆕
 
 If you have any needs that fit, please let me know. 🙏 (I’m not a recruiter – just trying to help make connections!).
