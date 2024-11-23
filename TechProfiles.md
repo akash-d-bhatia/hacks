@@ -9,15 +9,15 @@
 * CMO
 * Lots of people with sales strategy/sales ops; Public one: [Mark Wohlfarth](https://www.linkedin.com/in/mark-wohlfarth/)
 * Product managers
-* Ex-consultants (various levels); Public ones: [Mohd. Zain](https://www.linkedin.com/in/mohammedzain/), [Mark Koskei](https://www.linkedin.com/in/mark-koskei/)
+* Ex-consultants (various levels); Public ones: [Mohd. Zain](https://www.linkedin.com/in/mohammedzain/)
 * Ecosystem leader
-
 
 **Enterprise SW positions open** that I know about
 
-* CorpDev at two separate mid-maket data related companies. Both would report to the President (who is CEO-1)
 * CCO (Chief Customer Officer) for a mid-market infrastructure SW company
 * SVP of cross company ops for a mid-market infrastructure SW company
-* Revenue Strategy & Operations Manager for Harness - link [here](https://www.harness.io/company/jobs/apply?gh_jid=4407329007?gh_jid%3D4407329007) 🆕
+* Revenue Strategy & Operations Manager for Harness - link [here](https://www.harness.io/company/jobs/apply?gh_jid=4407329007?gh_jid%3D4407329007) 
+* VP of Product Management for a mid-market SW company 🆕
+* Chief of Staff to the CEO for a hot AI startup 🆕
 
 If you have any needs that fit, please let me know. 🙏 (I’m not a recruiter – just trying to help make connections!).
