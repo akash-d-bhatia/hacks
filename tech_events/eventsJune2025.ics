@@ -1,0 +1,347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tech Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:snowflake-summit-2025@techevents.com
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250506
+SUMMARY:Snowflake Summit (Analytics, Data Warehouses, AI Infrastructure)
+LOCATION:San Francisco, CA
+DESCRIPTION:Analytics, Data Warehouses, AI Infrastructure
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:snowflake-investor-day-2025@techevents.com
+DTSTART;VALUE=DATE:20250603
+DTEND;VALUE=DATE:20250604
+SUMMARY:Snowflake Investor Day
+LOCATION:San Francisco, CA
+DESCRIPTION:Snowflake Investor Day
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bofa-tech-conference-2025@techevents.com
+DTSTART;VALUE=DATE:20250603
+DTEND;VALUE=DATE:20250506
+SUMMARY:Bank of America Global Technology Conference
+LOCATION:San Francisco, CA
+DESCRIPTION:Bank of America Global Technology Conference
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:databricks-summit-2025@techevents.com
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250613
+SUMMARY:Databricks Data + AI Summit (Data Lakehouse, AI Infrastructure, ML)
+LOCATION:San Francisco, CA
+DESCRIPTION:Data Lakehouse, AI Infrastructure, ML
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:datadog-dash-2025@techevents.com
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250612
+SUMMARY:Datadog Dash (DevOps, Security, Cloud Monitoring)
+LOCATION:New York, NY
+DESCRIPTION:DevOps, Security, Cloud Monitoring
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:databricks-investor-briefing-2025@techevents.com
+DTSTART;VALUE=DATE:20250611
+DTEND;VALUE=DATE:20250612
+SUMMARY:Databricks Investor Briefing
+LOCATION:San Francisco, CA
+DESCRIPTION:Databricks Investor Briefing
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:doubleverify-innovation-day-2025@techevents.com
+DTSTART;VALUE=DATE:20250611
+DTEND;VALUE=DATE:20250612
+SUMMARY:DoubleVerify Innovation Day (Digital Advertising, Analytics)
+LOCATION:New York, NY
+DESCRIPTION:Digital Advertising, Analytics
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:deutsche-bank-tech-2025@techevents.com
+DTSTART;VALUE=DATE:20250827
+DTEND;VALUE=DATE:20250829
+SUMMARY:Deutsche Bank Technology Conference
+LOCATION:Dana Point, CA
+DESCRIPTION:Deutsche Bank Technology Conference
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hubspot-inbound-2025@techevents.com
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250906
+SUMMARY:HubSpot INBOUND (CRM, Marketing, Commerce, Data)
+LOCATION:San Francisco, CA
+DESCRIPTION:CRM, Marketing, Commerce, Data
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:citi-tmt-conference-2025@techevents.com
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250906
+SUMMARY:Citi Global TMT Conference
+LOCATION:New York, NY
+DESCRIPTION:Citi Global TMT Conference
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goldman-sachs-communicopa-2025@techevents.com
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250912
+SUMMARY:Goldman Sachs Communicopa & Technology Conference
+LOCATION:San Francisco, CA
+DESCRIPTION:Goldman Sachs Communicopa & Technology Conference
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wolfe-tmt-conference-2025@techevents.com
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250912
+SUMMARY:Wolfe Research TMT Conference
+LOCATION:San Francisco, CA
+DESCRIPTION:Wolfe Research TMT Conference
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:workday-rising-2025@techevents.com
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250919
+SUMMARY:Workday Rising (HCM, ERP, Employee Experience)
+LOCATION:San Francisco, CA
+DESCRIPTION:HCM, ERP, Employee Experience
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hr-tech-conference-2025@techevents.com
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250919
+SUMMARY:HR Tech Conference (HCM)
+LOCATION:Las Vegas, NV
+DESCRIPTION:HCM
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:zoomtopia-2025@techevents.com
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250918
+SUMMARY:Zoomtopia (Cloud Communications, Video Conferencing)
+LOCATION:San Jose, CA
+DESCRIPTION:Cloud Communications, Video Conferencing
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:intuit-investor-day-2025@techevents.com
+DTSTART;VALUE=DATE:20250918
+DTEND;VALUE=DATE:20250919
+SUMMARY:Intuit Investor Day
+LOCATION:Mountain View, CA
+DESCRIPTION:Intuit Investor Day
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jp-morgan-software-forum-2025@techevents.com
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251009
+SUMMARY:J.P. Morgan Software Forum
+LOCATION:Napa, CA
+DESCRIPTION:J.P. Morgan Software Forum
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dayforce-discover-2025@techevents.com
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251010
+SUMMARY:Dayforce Discover (HR & Payroll Software)
+LOCATION:Las Vegas, NV
+DESCRIPTION:HR & Payroll Software
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:oracle-cloudworld-2025@techevents.com
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251017
+SUMMARY:Oracle CloudWorld (Database, ERP, HCM, Cloud, AI Infrastructure)
+LOCATION:Las Vegas, NV
+DESCRIPTION:Database, ERP, HCM, Cloud, AI Infrastructure
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cloudflare-connect-2025@techevents.com
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251017
+SUMMARY:Cloudflare Connect (Networking, Security)
+LOCATION:Las Vegas, NV
+DESCRIPTION:Networking, Security
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:salesforce-dreamforce-2025@techevents.com
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251017
+SUMMARY:Salesforce Dreamforce (CRM, Collaboration Tools, Agentic AI)
+LOCATION:San Francisco, CA
+DESCRIPTION:CRM, Collaboration Tools, Agentic AI
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:intuit-connect-2025@techevents.com
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251030
+SUMMARY:Intuit Connect (Accounting, Payroll Software)
+LOCATION:Las Vegas, NV
+DESCRIPTION:Accounting, Payroll Software
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:adobe-max-2025@techevents.com
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251031
+SUMMARY:Adobe MAX (Creative Cloud, Content Creation, AI Generation)
+LOCATION:Los Angeles, CA
+DESCRIPTION:Creative Cloud, Content Creation, AI Generation
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:microsoft-ignite-2025@techevents.com
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251122
+SUMMARY:Microsoft Ignite (Customer Conference for IT Leaders)
+LOCATION:San Francisco, CA
+DESCRIPTION:Customer Conference for IT Leaders
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wells-fargo-tmt-summit-2025@techevents.com
+DTSTART;VALUE=DATE:20251118
+DTEND;VALUE=DATE:20251120
+SUMMARY:Wells Fargo TMT Summit
+LOCATION:Rancho Palos Verdes, CA
+DESCRIPTION:Wells Fargo TMT Summit
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rbc-tech-conference-2025@techevents.com
+DTSTART;VALUE=DATE:20251118
+DTEND;VALUE=DATE:20251120
+SUMMARY:RBC Technology, Internet, Media & Telecom Conference
+LOCATION:New York, NY
+DESCRIPTION:Technology, Internet, Media & Telecom Conference
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ubs-global-tech-2025@techevents.com
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251205
+SUMMARY:UBS Global Technology Conference
+LOCATION:Scottsdale, AZ
+DESCRIPTION:UBS Global Technology Conference
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aws-reinvent-2025@techevents.com
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251206
+SUMMARY:AWS re:Invent (AWS, IT Architecture/Operations, AI Infrastructure)
+LOCATION:Las Vegas, NV
+DESCRIPTION:AWS, IT Architecture/Operations, AI Infrastructure
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barclays-global-tech-2025@techevents.com
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251212
+SUMMARY:Barclays Global Technology Conference
+LOCATION:San Francisco, CA
+DESCRIPTION:Barclays Global Technology Conference
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ces-2026@techevents.com
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260110
+SUMMARY:International CES (Consumer Electronics, Emerging Tech)
+LOCATION:Las Vegas, NV
+DESCRIPTION:Consumer Electronics, Emerging Tech
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rsa-conference-2026@techevents.com
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260327
+SUMMARY:RSA Conference (Cybersecurity)
+LOCATION:San Francisco, CA
+DESCRIPTION:Cybersecurity
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:adobe-summit-2026@techevents.com
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260423
+SUMMARY:Adobe Summit (Experience Cloud, Work Management, GenStudio)
+LOCATION:Las Vegas, NV
+DESCRIPTION:Experience Cloud, Work Management, GenStudio
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:google-cloud-next-2026@techevents.com
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260425
+SUMMARY:Google Cloud Next (GCP, IT Ops, Cloud Strategies, AI Infrastructure)
+LOCATION:Las Vegas, NV
+DESCRIPTION:GCP, IT Ops, Cloud Strategies, AI Infrastructure
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:servicenow-knowledge-2026@techevents.com
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260508
+SUMMARY:ServiceNow Knowledge (ITSM, ITOM, RPA, Agentic AI)
+LOCATION:Las Vegas, NV
+DESCRIPTION:ITSM, ITOM, RPA, Agentic AI
+STATUS:CONFIRMED
+END:VEVENT
+
+END:VCALENDAR
