@@ -1,6 +1,6 @@
 I just moved to a MAC recently. I get asked this all the time, so I thought I would write down the **MAC apps** that I've found that help in my work. This is not meant as a comprehensive guide by any means! If you do have any suggestions on apps that you have found that are of this ilk, please do let me know. I would love to try them. (The ones marked with $ are not free). 
 
-<u>Must install</u> / use apps:
+**Must install** / use apps:
 
 * [Raycast](http://www.raycast.com): replacement for native app launcher. Much quicker and with an awesome set of plugins. I use it to launch apps (obviously), search for files, save frequently used snippets (e.g., for introductions), time in location X, date math (e.g., 7/4/2023 + 8 weeks) etc. (If you are more ambitious, you can also write your own plugins). 
 * [Espanso](https://espanso.org): Text expander. Essentially you give a short phrase (e.g., emsg and it expands to "Please let me know if you have any questions"). You probably think you don't need it, but it allows one to speed through responses. 
@@ -16,7 +16,7 @@ I just moved to a MAC recently. I get asked this all the time, so I thought I wo
 * [Homerow](https://www.homerow.app/): This allows one to use a keyboard shortcut to search for items to click on.
 * Plus of course all the AI tools: [Perplexity](https://www.perplexity.ai/), [Claude](https://claude.ai/), [ChatGPT](https://chat.openai.com/), [warp (for terminal)](https://www.warp.dev/), [Cursor for coding](https://www.cursor.com/) etc.
 
-Nice to have but <u>not critical</u>:
+Nice to have but **not critical**:
 
 * [Hammerspoon](http://www.hammerspoon.org/): A tool to help you automate tasks on the Mac via shortcuts and light scripting. I use it to launch apps via shortcuts mostly. Need to play with it more. 
 * [Vimac](https://vimacapp.com/): Another one like Homerow that allows you to use a keyboard (Ctrl F) to search for things to click on / navigate. (I guess Vimac turned into Homerow! Anyway, I have both).     
